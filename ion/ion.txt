@@ -2,3 +2,4 @@ master
 mihai
 
 today is thursday
+tomorrow is friday
